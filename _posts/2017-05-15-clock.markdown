@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Clock"
+date:   2017-05-14 20:58:46 -0400
+categories: jekyll update
+---
+
+{% include clock/clock.html %}
+{% include clock/clock.css %}
+{% include clock/clock.js %}
