@@ -14,7 +14,7 @@ img {
   color: var(--base);
 }
 
-body {
+.wrap {
   text-align: center;
   background: #193549;
   color: white;
